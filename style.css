@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background: blue;
+}
+#camera {
+    border: 2px black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_object, #span_result1, #span_result2 {
+    color:red;
+}
+#capture, #identify {
+    color: darkcyan;
+}
+#main {
+    color: skyblue;
+}
